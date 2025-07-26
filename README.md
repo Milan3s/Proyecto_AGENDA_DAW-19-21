@@ -7,7 +7,7 @@ Este sistema CRUD te permitirá **crear, leer, actualizar y eliminar** contactos
 
 ## 📷 Vista previa del proyecto
 
-![Captura del proyecto](ruta/a/tu/imagen.png)  
+![Captura del proyecto](https://github.com/Milan3s/Proyecto_AGENDA_DAW-19-21/portada.png)  
 > *(Puedes reemplazar esta imagen por una captura real de tu app alojada localmente o en GitHub)*
 
 ---
